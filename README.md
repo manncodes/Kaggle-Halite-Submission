@@ -7,12 +7,13 @@ Halite by Two Sigma ("Halite") is a resource management game where you build and
 <p align="center">
   <img  src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3258%2F73a73a0b4a807a7a9e674a40c55f7396%2Fhalite.gif?generation=1594994852379393&alt=media">
 </p> 
-Created by Two Sigma in 2016, more than 15,000 people around the world have participated in a Halite challenge. Players apply advanced algorithms in a dynamic, open source game setting. The strategic depth and immersive, interactive nature of Halite games make each challenge a unique learning environment.
 
-Halite IV builds on the core game design of Halite III with a number of key changes that shift the focus of the game towards tighter competition on a smaller board. New game features include regenerating halite, shipyard creation, no more ship movement costs, and stealing halite from other players!
-  
+<p style='text-align: justify;'>
+ Created by Two Sigma in 2016, more than 15,000 people around the world have participated in a Halite challenge. Players apply advanced algorithms in a dynamic, open source game setting. The strategic depth and immersive, interactive nature of Halite games make each challenge a unique learning environment. Halite IV builds on the core game design of Halite III with a number of key changes that shift the focus of the game towards tighter competition on a smaller board. New game features include regenerating halite, shipyard creation, no more ship movement costs, and stealing halite from other players!
+ </p> 
+ 
 ## Basic Strategies:
-The most straightforward way to get started with Halite is to write a bot that can convert your starting ship into a shipyard, spawn a new ship, and then travel out to collect nearby halite and return it. From there the next step is to control a group of ships (and prevent them colliding into each other).
+The most straightforward way to get started with Halite is to write a bot that can convert your starting ship into a shipyard, spawn a new ship, and then travel out to collect nearby halite and return it. From there the next step is to control a group of ships (and prevent them colliding into each other). 
 
 After you get the basics down you should think about what other creative ideas you want to program. Some ideas to get you started:
 
