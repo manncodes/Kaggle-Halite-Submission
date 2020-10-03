@@ -1,5 +1,5 @@
 # Kaggle Halite Submission
- Game-AI submission for Kaggle's Halite contest powered by Two Sigma.
+ Top 1% Game-AI submission for Kaggle's Halite contest powered by Two Sigma.
 
 ## About the Contest:
 Halite by Two Sigma ("Halite") is a resource management game where you build and control a small armada of ships. Your algorithms determine their movements to collect halite, a luminous energy source. The most halite at the end of the match wins, but it's up to you to figure out how to make effective and efficient moves. You control your fleet, build new ships, create shipyards, and mine the regenerating halite on the game board. 
